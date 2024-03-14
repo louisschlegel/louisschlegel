@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bonjour, je suis Louis Schlegel
 
-<!--
-**louisschlegel/louisschlegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Je suis un passionné de Développement d'application et de gestion de proket. J'adore explorer de nouveaux domaines, résoudre des problèmes et apprendre constamment. Mon objectif est de contribuer de manière positive à la communauté en partageant mes connaissances et en collaborant avec d'autres personnes talentueuses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- LinkedIn : https://www.linkedin.com/in/louis-schlegel-a9b46819b/
+- Email : schlegellouis2@gmail.com
+
+---
+
